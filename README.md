@@ -1,2 +1,2 @@
 # Ranranbot
-Ranran is going to create a bot 
+Ranran is going to creat a bot 
