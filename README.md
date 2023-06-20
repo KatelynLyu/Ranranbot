@@ -3,7 +3,8 @@ Ranran is going to creat a bot<br>
 ***
 It seems that if I want to build a chat bot, I need to:<br>
 
-1. Decide what chat protocol you want your bot to work on. Will it be IRC or facebook messenger or any other?
+1. Decide what chat protocol I want my bot to work on.<br>
+I will try to use Bert&Milvus. And if everthing goes fluently, I will make an effort to plant it in wechat. 
 
 2. Study the protocol of the platform you have chosen for your bot to operate in. For instance with IRC protocol you can use the protocol specification to understand how your program must communicate. You can read about that here: Internet Relay Chat RFCs
    
